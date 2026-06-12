@@ -1,4 +1,6 @@
-# Fillify - Landing Page
+# Fillify - PDF Editing Application
+
+![Fillify](fillify.png)
 
 Welcome to the **Fillify** project! This README provides an overview of the project, setup instructions, and other relevant details.
 
@@ -15,49 +17,38 @@ Welcome to the **Fillify** project! This README provides an overview of the proj
 
 ## Visit
 
-- [Vercel](https://fillify0.vercel.app/)
+- [Repository](https://github.com/aabubokarr/fillify)
 
 ## About
 
-**Fillify** is a modern, fast, and responsive web application built with Next.js and TypeScript. It provides powerful PDF editing and conversion tools, allowing users to make PDFs fillable, edit existing documents, and manage their PDF workflow with ease. The application features a sleek dark-themed UI, reusable components, and optimized performance.
+**Fillify** is a modern, fast, and responsive web application. It provides powerful PDF editing and conversion tools, allowing users to make PDFs fillable, edit existing documents, and manage their PDF workflow with ease. The application features a sleek dark-themed UI, reusable components, and optimized performance.
 
 ## Features
 
-- Hero Section
-- About Section
-- Features Section
-- How It Works Section
-- FAQ Section
-- Contact Section
-- CTA Section
-- Responsive Design
+- Hero
+- About
+- How It Works
+- FAQ
+- Contact
 
 ## Installation
 
 1. Clone the repository:
-
    ```bash
-   git clone https://github.com/woabu0/fillify.git
+   git clone https://github.com/aabubokarr/fillify.git
    ```
-
 2. Navigate to the project directory:
-
    ```bash
    cd fillify
    ```
-
 3. Install dependencies:
-
    ```bash
    npm i
    ```
-
 4. Run the development server:
-
    ```bash
    npm run dev
    ```
-
 5. Open your browser and navigate to:
    ```
    http://localhost:3000
@@ -106,8 +97,8 @@ fillify/
 ## Contributors
 
 <p align="center">
-  <a href="https://github.com/woabu0/fillify/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=woabu0/fillify" alt="Contributors" />
+  <a href="https://github.com/aabubokarr/fillify/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=aabubokarr/fillify" alt="Contributors" />
   </a>
 </p>
 
@@ -116,25 +107,18 @@ fillify/
 Contributions are welcome! Please follow these steps:
 
 1. Fork the repository.
-
 2. Create a new branch:
-
    ```bash
    git checkout -b feature-name
    ```
-
 3. Commit your changes:
-
    ```bash
    git commit -m "Add feature-name"
    ```
-
 4. Push to the branch:
-
    ```bash
    git push origin feature-name
    ```
-
 5. Open a pull request.
 
 ## License
